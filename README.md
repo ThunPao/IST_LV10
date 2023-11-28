@@ -6,6 +6,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+This is public template
+Hope you have some good Developer's experience
+Good luck.
+Structures:
+- Laravel 10
+- Inertia/Svelte
+- Tailwindcss
+
 
 ## About Laravel
 
